@@ -1,5 +1,5 @@
-# 笔记
-## 工厂模式
+# Java笔记
+## 1.0 什么是工厂模式?
 
 工厂模式是为了解决繁琐的new实例化,所以通过一个接口来实现共同对实例化进行统一!
 
@@ -42,7 +42,6 @@ public class I18NFactory {
 }
 ```
 - 主函数
-- 
 ```java
 import language.I18NFactory;
 import language.I18n;
